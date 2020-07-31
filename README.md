@@ -4,5 +4,5 @@ All the code is in the jupyter notebook and the dataset is located in the data f
 
 The image dataset have a .p extension (Pascal source code) and for that we'll use the pickle library to help us.
 
-The notebook also contains the entire explanation of the code, so you can have a better understand of it.
+The notebook also contains the entire explanation of the code, so you can have a better understanding of it.
 
